@@ -11,6 +11,12 @@
 #   5. Re‑packs the mod, overwriting the original zip.
 #   6. Cleans up temporary files.
 # ------------------------------------------------------------
+#
+# Made by: Heitor Filizzola
+#
+# https://github.com/heitorfilizzola
+#
+# ------------------------------------------------------------
 
 set -euo pipefail
 
